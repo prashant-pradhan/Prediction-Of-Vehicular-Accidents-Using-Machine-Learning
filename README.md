@@ -1,5 +1,5 @@
 # Prediction-Of-Vehicular-Accidents-Using-Machine-Learning
-Prediction Of Vehicular Accidents Using Machine Learning
+Prediction Of Vehicular Accidents Using Machine Learning <br>
 Final Project: MTECH CSE, Dessertation Phase- II
 <br>
 Author: Prashant Pradhan(MTech CSE, Semester- IV), Prof. Somsubhra Gupta
