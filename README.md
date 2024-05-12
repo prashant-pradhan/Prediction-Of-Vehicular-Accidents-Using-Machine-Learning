@@ -6,7 +6,7 @@ MTECH (CSE) Final Year Project on Prediction Of Vehicular Accidents Using Machin
 MTECH (CSE) | Dessertation Phase- II | 2022-24
 <br>
 
-## Author: Prashant Pradhan (MTech CSE, Semester- IV), Prof. Somsubhra Gupta
+# Author: Prashant Pradhan (MTech CSE, Semester- IV), Prof. Somsubhra Gupta
 # SWAMI VIVEKANANDA UNIVERSITY
 
 <br>
